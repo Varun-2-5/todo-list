@@ -17,7 +17,7 @@ A simple task management web application built using HTML, CSS, and JavaScript.
 ## How to Run
 
 1. Clone this repository.
-2. Open `To-Do.html` in your web browser.
+2. Open `index.html` in your web browser.
 3. Enter a task and click the **Add** button.
 4. Use the **Delete** button to remove a task.
 
